@@ -42,20 +42,21 @@ Repository contains:<br>
 </picture>
 
 <picture>
+   <img src="Img/3D_view_01.jpg">
+</picture>
+
+<picture>
    <img src="Img/Bott.jpg">
 </picture>
 
-
-<h2>3D model</h2>
-https://github.com/i1-b/CH423-Evolution-Board/blob/main/CH423_ev.step
-<picture>
-   <img src="Img/3D_view_01.jpg">
-</picture>
 <picture>
    <img src="Img/3D_view_02.jpg">
 </picture>
 
 
+
+<h2>3D model</h2>
+https://github.com/i1-b/CH423-Evolution-Board/blob/main/CH423_ev.step
 
 <h2>Library</h2>
 
