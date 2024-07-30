@@ -33,9 +33,14 @@ https://github.com/i1-b/CH423-Evolution-Board/blob/main/CH423_ev.pdf
 
 <h2>PCB Design</h2>
 
+Repository contains:<br>
+<b>/CH423_ev</b>    KiCAD PCB Design Project, including schematic and pcb files.
+<br><b>/Prod</b>    GERBER files; drl file also included.
+
 <picture>
    <img src="Img/Top.jpg">
 </picture>
+
 <picture>
    <img src="Img/Bott.jpg">
 </picture>
