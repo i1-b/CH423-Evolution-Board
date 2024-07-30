@@ -29,7 +29,7 @@ The CH423 is a universal remote I/O expansion chip with a two-wire serial interf
 
 Library: https://github.com/Edragon/WCH-CH42X/tree/main/CH423EVT/EXAM
 
-An Arduino library: https://github.com/DFRobot/DFRobot_CH423 <br>
+Arduino library: https://github.com/DFRobot/DFRobot_CH423 <br>
 It works with I/O expansion only, dynamic scanning display drive mode unimplemented.
 
 
