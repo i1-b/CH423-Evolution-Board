@@ -1,10 +1,12 @@
 # CH423-Evolution-Board
 
-Evolution board for cost effective I/O expansion. 
-For projects based on micro controllers with limited pin numbers operating via 2-wire serial interface. 
-Especially for ESP8266 /ESP8685.
+Evolution board for cost effective I/O expansion operating via 2-wire serial interface.<br> 
+It’s great solution for projects based on devices with low pin count. 
+Such as ESP8266 /ESP8685.
 
 The evolution board designed for CH423 in SOP28 package: https://www.wch-ic.com/products/CH423.html
+<br>Datasheet: https://github.com/i1-b/CH423-Evolution-Board/blob/main/CH423DS1.PDF
+<br>Or: https://www.wch-ic.com/downloads/CH432DS1_PDF.html
 
 <h2>Overview</h2>
 
