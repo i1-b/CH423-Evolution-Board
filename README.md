@@ -12,7 +12,6 @@ The evolution board designed for CH423 in SOP28 package: https://www.wch-ic.com/
 
 The CH423 is a universal remote I/O expansion chip with a two-wire serial interface. CH423 provides 8 bidirectional input and output pins and 16 general-purpose output pins to support input level change interrupt. CH423 built-in current drive circuit can statically drive 24 LED tubes or dynamically drive 128 LEDs (equivalent to 16 digital) Tube); CH423 exchanges data with a single-chip microcomputer through a 2-wire serial interface. 
 
-<img scr="https://github.com/i1-b/CH423-Evolution-Board/blob/main/Img/lkSqXbKYTyaXqk4o92Rl5VHStg55QkCAZngRsQFD.jpeg">
 
 <h2>Features</h2>
 
